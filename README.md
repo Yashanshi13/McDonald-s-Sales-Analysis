@@ -60,10 +60,10 @@ Visualizations
 👩‍🍳 Staff Performance (Orders & Sales by Staff)
 💳 Payment Analysis (Cash vs Card)
 
-📢 Author
+Conclusion
 
-👩‍💻 Yashanshi Gupta
+The McDonald’s Sales Dashboard turned raw sales data into actionable insights, revealing peak hours, top-performing staff, and best-selling items. These findings help optimize staff scheduling, promotions, and overall restaurant efficiency.
 
+📢 Created by-👩‍💻 Yashanshi Gupta
 🌐 LinkedIn:https://www.linkedin.com/in/yashanshi-gupta
-
 📧 Email: yashanshigupta2002@gmail.com
